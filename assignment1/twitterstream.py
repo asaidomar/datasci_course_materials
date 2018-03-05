@@ -3,6 +3,11 @@ import urllib2 as urllib
 
 # See assignment1.html instructions or README for how to get these credentials
 
+api_key = "Vc1qdpWwnEDHN3MDspHrMbTmJ"
+api_secret = "NaNBexnJSqlD4Peby5N22tu1msL0J8mmLZXEvbazRYo4zH8ObF"
+access_token_key = "462776243-Zl6KS5bmC2YsOHodAxX9qSOrSfiiE2ziLvmUyz8x"
+access_token_secret = "AgwnJ0554TuDZYqPVbFtQbeGl9ptdJsoESXInoKp6MSNN"
+
 
 """
 api_key = "<Enter api key>"
